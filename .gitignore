@@ -4,3 +4,7 @@
 # Environment / secrets
 .env
 .env.local
+
+# Generated CircleMUD world preview data (produced by week0_explore/bin/convert-world)
+/week0_explore/preview/data/world/*
+!/week0_explore/preview/data/world/.keep

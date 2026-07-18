@@ -1,0 +1,7 @@
+## Observations
+
+- The coding agent created temporary scripts to manage the socket connection.
+- The agent struggled with the deterministic MUD login flow.
+- The agent read unrelated repository files and used unnecessary tokens.
+- Increasing the model intelligence did not resolve the core connection issue.
+- The agent had poor visibility into its failed login attempts.
